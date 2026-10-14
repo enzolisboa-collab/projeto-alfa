@@ -1,3 +1,5 @@
+import './Footer.css'
+
 <footer class="rodape">
 <span>© 2026 Studio Alfa</span>
 <ul class="redes">
