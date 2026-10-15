@@ -1,5 +1,8 @@
 import './Main.css'
 
+
+function Main(){
+  return(
 <main>
 
 <section class="hero">
@@ -30,3 +33,6 @@ import './Main.css'
 </section>
 
 </main>
+  )
+}
+export default Main

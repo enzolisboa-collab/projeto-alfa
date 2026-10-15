@@ -1,5 +1,7 @@
 import './Footer.css'
 
+function Footer(){
+  return(
 <footer class="rodape">
 <span>© 2026 Studio Alfa</span>
 <ul class="redes">
@@ -8,3 +10,6 @@ import './Footer.css'
   <li><a href="#">E-mail</a></li>
 </ul>
 </footer>
+  )
+}
+export default Footer
